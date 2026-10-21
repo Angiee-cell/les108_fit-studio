@@ -96,12 +96,14 @@
 
 .news__date {
     display: inline-block;
-    font-family: Ubuntu, sans-serif;
     margin-bottom: 8px;
 }
 
 .news__text {
     font-family: Ubuntu, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 130%;
     color: #535735;
     font-size: 16px;
 }
@@ -219,6 +221,7 @@
 
 .details__text {
     font-family: Ubuntu, sans-serif;
+    line-height: 130%;
     color: #535735;
 }
 
